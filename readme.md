@@ -11,7 +11,7 @@ Licence: [MIT](./license.md "Лицензия")
 * HTML
 * CSS (Bootstrap)
 * JavaScript (jQuery, Popper )
-* Web-fonts (Roboto)
+* Web-fonts (Свой шрифт)
 
 ## Используемые правила в селекторах
 
