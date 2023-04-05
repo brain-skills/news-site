@@ -37,4 +37,4 @@ Licence: [MIT](./license.md "Лицензия")
 
 - Зайти в папку сайта в файловом менеджере, кликнуть 2 раза по файлу index.html.
 
-- Либо перейти по [ссылке](https://smart-skill.github.io/news-site/ 'Открыть GitHub page') чтобы открыть страницу проекта на GitHub pages.
+- Либо перейти по <a href="https://smart-skill.github.io/news-site/" target="_blank" title="Открыть GitHub page">ссылке</a> чтобы открыть страницу проекта на GitHub pages.
